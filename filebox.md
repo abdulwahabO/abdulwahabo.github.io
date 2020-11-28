@@ -1,0 +1,26 @@
+## Filebox
+
+This web application lets user......
+
+<img src="images/filebox-demo.gif?raw=true"/>
+
+Backend is .......
+
+THe role of AWS..... 
+
+Roles attached to the beanstalk environment........
+
+DynamoDB was used as database because......
+
+Frontend is .......
+
+User authentication is Github OAuth... Framework support for OAuth is not used, instead the flow is implemented with Spring OAuth libs which are a greate choice.
+
+Once a file is uploaded so and so happens......
+
+TODO: Add a simple linear architecture diagram...
+
+
+See Github README for how to deploy it locally.
+
+

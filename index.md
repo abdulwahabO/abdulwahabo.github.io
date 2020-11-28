@@ -1,13 +1,15 @@
-## Portfolio
 
 ---
 
-### Category Name 1 
+## Filebox
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A simple file storage service built on AWS infrastructure.
+
+<img src="images/filebox-demo.gif?raw=true"/>
+[Learn more](/filebox)
 
 ---
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -26,10 +28,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

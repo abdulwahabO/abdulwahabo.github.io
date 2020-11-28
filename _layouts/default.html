@@ -12,12 +12,12 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
+    <div class="wrapper" style="width: 1140px;">
+      <header style="position: static; font-family: Courier, monospace;">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img style="border-radius: 50%" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -38,12 +38,12 @@
         </ul>
         {% endif %}
       </header>
-      <section>
+      <section style="width: 780px;">
 
       {{ content }}
 
       </section>
-      <footer>
+      <footer style="position: static;">
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
