@@ -5,8 +5,10 @@
 
 A simple file storage service built on AWS infrastructure.
 
+Tech: Java 11, Spring Boot, AWS (S3, DynamoDB, Elastic Beanstalk).
 <img src="images/filebox-demo.gif?raw=true"/>
-[Learn more](/filebox)
+<br>
+[Learn more about Filebox](/filebox)
 
 ---
 

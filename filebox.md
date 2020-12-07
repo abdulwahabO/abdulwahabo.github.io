@@ -1,8 +1,6 @@
-## Filebox
+## About Filebox
 
 This web application lets user......
-
-<img src="images/filebox-demo.gif?raw=true"/>
 
 Backend is .......
 
@@ -21,6 +19,15 @@ Once a file is uploaded so and so happens......
 TODO: Add a simple linear architecture diagram...
 
 
+The advantages of elastic beanstalk are....
+
+For simplicity, NO CI pipeline....
+
+
 See Github README for how to deploy it locally.
+
+
+// TODO: Leave the GIF at the bottom here so the layout is different from the homepage.
+<img src="images/filebox-demo.gif?raw=true"/>
 
 
