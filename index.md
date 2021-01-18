@@ -1,32 +1,21 @@
+### Rust Github Activity Insights
+
+A batch processing pipeline that feeds a dashboard showing statistics for all activity on the Github repositories belonging the Rust language team.
+<br>
+<i>Tech stack: Java 11, Spring Boot, Apache Spark, ChartJS, AWS(S3, DynamoDB, Elastic Beanstalk)</i>
+
+[Learn more about Rust Github Activity Insights](https://github.com/abdulwahabO/rustlang-github-insights)
+
+<img src="images/rai.gif?raw=true"/>
 
 ---
 
 ## Filebox
 
-A simple file storage service built on AWS infrastructure.
-
-Tech: Java 11, Spring Boot, AWS (S3, DynamoDB, Elastic Beanstalk).
-<img src="images/filebox-demo.gif?raw=true"/>
+A simple file storage service built on AWS infrastructure. Supports upload and download of small files.
 <br>
-[Learn more about Filebox](/filebox)
+<i>Tech stack: Java 11, Spring Boot, AWS(S3, DynamoDB, Elastic Beanstalk)</i>
 
----
+[Learn more about Filebox](https://github.com/abdulwahabO/filebox)
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+<img src="images/filebox-demo.gif?raw=true"/>
